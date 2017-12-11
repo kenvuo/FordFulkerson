@@ -17,6 +17,10 @@ Example input <br>
 0 0 1 0 1  <br>
 0 0 0 0 0  <br>
 
+Output: <br>
+* First a line with value of the optimal flow.
+* Then _m_ lines with _m_ numbers each (a matrix) where the flow is written, in the same format as the capacities of the input (vertical index is from, and horizontal is to). 
+
 Example output  <br>
 4<br>
 0 3 1 0 0<br> 
